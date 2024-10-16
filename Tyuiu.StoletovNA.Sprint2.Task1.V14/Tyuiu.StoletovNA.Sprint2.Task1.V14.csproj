@@ -1,8 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.StoletovNA.Sprint2.Task0.V5.Lib\Tyuiu.StoletovNA.Sprint2.Task0.V5.Lib.csproj" />
-    <ProjectReference Include="..\Tyuiu.StoletovNA.Sprint2.Task0.V5.Test\Tyuiu.StoletovNA.Sprint2.Task0.V5.Test.csproj" />
+    <ProjectReference Include="..\Tyuiu.StoletovNA.Sprint2.Task1.V14.Lib\Tyuiu.StoletovNA.Sprint2.Task1.V14.Lib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
